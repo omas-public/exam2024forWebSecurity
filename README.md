@@ -1,4 +1,4 @@
-# exam2023_Network_I
+# exam2024_web_security
 
 2024年度ITスペシャリスト科考査　 WebSecurity
 
